@@ -1,17 +1,23 @@
 # Port Scanner
 
-A brief description of what this project does and who it's for
+This is a port scanner which is a network reconnaissance technique designed to identify which ports are open on a computer.
 
 ## Prerequisite
 Make sure you have installed all of the following prerequisites on your development machine:
 * venv - [Virtualenv installation documentation.](https://virtualenv.pypa.io/en/latest/installation.html) Venv is in the virtualenv package.
 
-## Install
-Clone repository on to your machine
+## Install and Run
+Clone repository on to your machine:
+`git clone https://github.com/ishmaelhoward/Port_Scanner.git`
 
-Create virtualenv inside of directory 
+Create virtualenv inside of directory:
+`python3 -m venv [venv folder name]`
 
-Install requirements from requirements.txt
+Install requirements from requirements.txt:
+`pip install -r /path/to/requirements.txt`
+
+Activate virtual enviroment:
+`source [venv folder name]​/bi​n/a​ctivate`
 
 Run python script:
 `python scanner.py`
