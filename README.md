@@ -4,7 +4,7 @@ This is a port scanner which is a network reconnaissance technique designed to i
 
 ## Prerequisite
 Make sure you have installed all of the following prerequisites on your development machine:
-* venv - [Virtualenv installation documentation.](https://virtualenv.pypa.io/en/latest/installation.html) Venv is in the virtualenv package.
+venv - [Virtualenv installation documentation.](https://virtualenv.pypa.io/en/latest/installation.html) Venv is in the virtualenv package.
 
 ## Install and Run
 Clone repository on to your machine:
