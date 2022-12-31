@@ -9,7 +9,8 @@ Create virtualenv inside of directory
 
 Install requirements from requirements.txt
 
-Run python script
+Run python script:
+`python scanner.py`
 
 Enter target machine IP address:
 `Target IP: 127.0.0.1`
