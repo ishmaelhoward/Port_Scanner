@@ -11,5 +11,5 @@ Install requirements from requirements.txt
 
 Run python script
 
-Enter target machine IP address
+Enter target machine IP address:
 `Target IP: 127.0.0.1`
