@@ -12,4 +12,4 @@ Install requirements from requirements.txt
 Run python script
 
 Enter target machine IP address
-`This is code`
+`Target IP: 127.0.0.1`
